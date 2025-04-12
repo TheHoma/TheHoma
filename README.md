@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://surl.li/kooyhb" height="300" width="600"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXpsaDdieWYwZW9hcHdmaGtyYzl0d3V4ZjBocWt4YzNmODV2bG44OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R7m04yMaGWVeE/giphy.gif" width="500" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Homa</h1>
+<h1 align="center">Hi 👋🏿, I'm Homa</h1>
 <div align="center">
   
 </div>
