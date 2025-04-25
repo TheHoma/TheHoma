@@ -1,18 +1,16 @@
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXpsaDdieWYwZW9hcHdmaGtyYzl0d3V4ZjBocWt4YzNmODV2bG44OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R7m04yMaGWVeE/giphy.gif" width="500" />
-</div>
+![alt text](./images/top.png)
 
-<h1 align="center">Hi 👋🏿, I'm Homa</h1>
+<h1 align="center">Hi, I'm Homa</h1>
 <div align="center">
   
 </div>
 
-<h3 align="center">Backend Developer from Belarus</h3>
+<h3 align="center">Backend Software Engineer</h3>
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheHoma&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" width="360" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheHoma&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheHoma&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=light&locale=en&hide_border=false" height="150" width="360" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheHoma&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=light&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 
@@ -25,8 +23,12 @@
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="margin-left: 2px" />
 
 
-<img align="left" src="https://cdn.jsdelivr.net/gh/tandpfun/skill-icons@main/icons/ExpressJS-Light.svg" alt="ExpressJS" width="32" height="32" style="margin-left: 2px" />
+<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="32" height="32" alt="Express" />
 
+
+<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="32px" alt="TypeScript" />
+
+<img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
 
 
 <img align="left" alt="Next.js" width="32px" src="https://miro.medium.com/v2/resize:fit:576/1*yqQpg5pkNNY2NCdcmqVstw.png" style="margin-left: 2px" />
@@ -74,6 +76,7 @@
 
 <div align="center">
   <p><b>"Your attendance in this moment was a gift — thank you."</b></p>
-  <img src="https://surl.li/ushqkm" width="200"/>
 </div>
+
+![alt text](./images/bottom.png)
 
