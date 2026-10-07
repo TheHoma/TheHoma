@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Den</h1>
+<h1 align="center">Hi, I'm Denis</h1>
 <div align="center">
   
 </div>
@@ -29,10 +29,6 @@
 <img align="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
 
 
-<img align="left" alt="Next.js" width="32px" src="https://miro.medium.com/v2/resize:fit:576/1*yqQpg5pkNNY2NCdcmqVstw.png" style="margin-left: 2px" />
-
-<img align="left" alt="Redux toolkit" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" style="margin-left: 2px" />
-
 <img align="left" alt="Redis" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" style="margin-left: 2px" />
 
 <img align="left" alt="MongoDB" width="32px" src="https://www.svgrepo.com/download/331488/mongodb.svg" style="margin-left: 2px" />
@@ -41,7 +37,6 @@
 
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" style="margin-right: 2px"/>
 
 <img align="left" alt="GitHub" width="32px" src="https://www.freeiconspng.com/thumbs/github-icon/git-github-hub-icon-25.png" style="margin-right: 2px" />
 
